@@ -21,7 +21,7 @@ comments: true
 
 <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="/">M3M3 <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="/" class="btn btn-warning">Follow us</a>
+<a target="_blank" href="/" class="btn btn-danger">Buy us a coffee</a> <a target="_blank" href="/" class="btn btn-warning">Follow us</a>
 
 </div>
 </div>
