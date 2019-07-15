@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Me and the Boys"
+title:  "Me And The Boys"
 categories: [June]
 image: https://i.imgur.com/I7gqkLw.jpg
 rating: 5
